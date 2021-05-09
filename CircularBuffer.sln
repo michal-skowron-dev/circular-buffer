@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBuffer", "CircularBuffer\CircularBuffer.csproj", "{EC5F6F74-1B4F-410B-A0C6-4189A747E714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5F6F74-1B4F-410B-A0C6-4189A747E714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5F6F74-1B4F-410B-A0C6-4189A747E714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5F6F74-1B4F-410B-A0C6-4189A747E714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5F6F74-1B4F-410B-A0C6-4189A747E714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12148A5F-5CFB-41D4-AF8F-D50265F95F38}
+	EndGlobalSection
+EndGlobal
